@@ -1,4 +1,4 @@
-// 100%
+//result: 100%
 
 #include <algorithm>
 #include <bits/ios_base.h>
